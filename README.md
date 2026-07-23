@@ -3,6 +3,8 @@ Financial feasibility model for the Magna Phase II clean cooking pilot.
 # Magna Clean Cooking Project
 ## Phase II Financial Feasibility Model
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianyesashimwe3-netizen/magna-clean-cooking-financial-model/blob/main/Clean_Cooking_Financial_Model.ipynb)
+
 This repository contains a Python-based financial feasibility model developed to assess the financial sustainability and scale-up potential of the **Magna Clean Cooking Project**.
 
 The model supports Phase II of the project by translating key operational and financial assumptions into projected unit economics, break-even requirements, investment recovery, cash flow, and sensitivity analyses.
